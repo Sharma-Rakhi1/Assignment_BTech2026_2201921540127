@@ -1,6 +1,6 @@
-#DAY-1 
+# DAY-1 
 # PROBLEM -1
-# Inheritance I 
+#Inheritance I 
 This is a Inheritance problem from HACKERRANK.
 
 PROBLEM STATEMENT- add a sing method to the Bird class, then modify the main method accordingly so that the code prints the following lines:
