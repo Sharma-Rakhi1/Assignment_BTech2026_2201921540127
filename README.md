@@ -1,3 +1,5 @@
+#DAY-1 
+# PROBLEM -1
 # Inheritance I 
 This is a Inheritance problem from HACKERRANK.
 
