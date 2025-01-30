@@ -57,3 +57,29 @@ We are provided with the abstract `Book` class and a `Main` class in the editor.
 3. Use `MyBook` in the `Main` class to verify the implementation.
 
 This problem helps understand the use of abstract classes and method implementation in Java.
+
+---
+
+# Day 3
+
+## Problem : Java Interface
+
+This is a problem about Java interfaces from **Hackerrank**.
+
+### Problem Statement
+
+CONCEPT: A Java interface can only contain method signatures and fields. The interface can be used to achieve polymorphism.
+
+You are given an interface `AdvancedArithmetic` which contains a method signature `int divisor_sum(int n)`. You need to write a class called `MyCalculator` which implements the interface.
+
+The `divisorSum` function takes an integer as input and returns the sum of all its divisors. For example, divisors of 6 are 1, 2, 3, and 6, so `divisor_sum` should return 12. The value of `n` will be at most 1000.
+
+### Solution
+
+We have provided the `AdvancedArithmetic` interface and a `Main` class in the editor. In the `Main` class, we created an instance of a class called `MyCalculator`.
+
+1. Create a class `MyCalculator` that implements the `AdvancedArithmetic` interface.
+2. Implement the `divisor_sum` method in `MyCalculator` to calculate the sum of all divisors of `n` using a `for loop`.
+
+This problem helps understand the use of interfaces and method implementation in Java.
+
