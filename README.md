@@ -98,7 +98,7 @@ CONCEPT: Overriding is the process where a subclass provides a specific implemen
           2. @Override Annotation: Typically used to indicate that a method is being overridden.
           3. Inheritance: Allows subclasses to modify or extend the functionality of superclass methods.
 
-The ####Task is to complete the code in your editor by writing an overridden `getNumberOfTeamMembers` method that prints the same statement as the superclass's `getNumberOfTeamMembers` method, except that it replaces `n` with `11` (the number of players on a Soccer team).
+The Task is to complete the code in your editor by writing an overridden `getNumberOfTeamMembers` method that prints the same statement as the superclass's `getNumberOfTeamMembers` method, except that it replaces `n` with `11` (the number of players on a Soccer team).
 
 ### Solution
 
