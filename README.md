@@ -11,4 +11,4 @@ The list of problems is here:
 
 **GeeksforGeeks**  
 
-[Decision Making in Java]
+[Inheritance Java](DAY-5/)
