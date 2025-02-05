@@ -1,6 +1,7 @@
 # Day 5
 
-## Problem 1: Java Inheritance [Visit Problem ↗]((https://www.geeksforgeeks.org/problems/java-inheritance/1?page=1&category=OOP,Class,Java-Class%20and%20Object&sortBy=submissions))
+## Problem 1: Java Inheritance
+[Visit Problem ↗](https://www.geeksforgeeks.org/problems/java-inheritance/1?page=1&category=OOP,Class,Java-Class%20and%20Object&sortBy=submissions)
 
 This is a problem about Java inheritance from **GeeksforGeeks**.
 
