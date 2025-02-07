@@ -11,23 +11,23 @@ CONCEPT: In any object-oriented programming language, overriding is a feature th
 
 Consider the following parent class:
 
-class Parent {
-    void show(int p) {
-        System.out.print(p + " ");
-    }
-    void print(int q) {
-        System.out.println(q + " ");
-    }
-}
+class Parent {  
+    void show(int p) {  
+        System.out.print(p + " ");  
+    }  
+    void print(int q) {  
+        System.out.println(q + " ");  
+    }  
+}  
 
-Also given a class named Child which inherits from Parent class:
+Also given a class named Child which inherits from Parent class:  
 
-class Child extends Parent {
-    @Override
-    void show(int p) {
-        System.out.print(p + " ");
-    }
-}
+class Child extends Parent {  
+    @Override  
+    void show(int p) {  
+        System.out.print(p + " ");  
+    }  
+}  
 
 ### Task
 
