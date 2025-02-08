@@ -3,7 +3,7 @@
 ## Problem 1: Java Method Overriding 2 (Super Keyword)
 [Visit Problem ↗](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem)
 
-This is a problem about method overriding in Java from **GeeksforGeeks**.
+This is a problem about method overriding in Java from **Hackerrank**.
 
 ### Problem Statement
 
