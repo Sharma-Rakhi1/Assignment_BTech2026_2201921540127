@@ -8,7 +8,8 @@ The list of problems is here:
 [Java Abstract Class](DAY-2/)  
 [Java Interface](DAY-3/)  
 [Java Method Overriding](DAY-4/)   
-[Java Method Overriding 2 (Super Keyword)](DAY-7/)
+[Java Method Overriding 2 (Super Keyword)](DAY-7/)  
+[Java Instanceof keyword](DAY-8/)
 
 **GeeksforGeeks**  
 
