@@ -19,7 +19,7 @@ abstract class A {
         System.out.println(prod);  
     }
 }  
-
+```
 - Here, m1() method is abstract indicating that it's implementation must be provided in child class 
 - Abstract class's instance cannot be created thus it has to be inherited and then used.
 
