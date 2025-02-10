@@ -1,7 +1,7 @@
 # Day 10
 
 ## Problem 1: Java Abstract Keyword
-[Visit Problem ↗](https://www.geeksforgeeks.org/java-abstract-class-methods/)
+[Visit Problem ↗](https://www.geeksforgeeks.org/problems/java-abstract-keyword/1?page=1&category=OOP,Class,Java-Class%20and%20Object&sortBy=submissions)
 
 This is a problem about using the `abstract` keyword in Java from **GeeksforGeeks**.
 
